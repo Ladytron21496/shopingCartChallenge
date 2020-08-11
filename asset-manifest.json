@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopingCartChallenge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shopingCartChallenge/static/js/main.59f0abfc.chunk.js",
+    "main.js.map": "/shopingCartChallenge/static/js/main.59f0abfc.chunk.js.map",
+    "runtime-main.js": "/shopingCartChallenge/static/js/runtime-main.1331f1b1.js",
+    "runtime-main.js.map": "/shopingCartChallenge/static/js/runtime-main.1331f1b1.js.map",
+    "static/css/2.11829350.chunk.css": "/shopingCartChallenge/static/css/2.11829350.chunk.css",
+    "static/js/2.5b429747.chunk.js": "/shopingCartChallenge/static/js/2.5b429747.chunk.js",
+    "static/js/2.5b429747.chunk.js.map": "/shopingCartChallenge/static/js/2.5b429747.chunk.js.map",
+    "index.html": "/shopingCartChallenge/index.html",
+    "precache-manifest.f3b666c823907771a499fcc7a4c71399.js": "/shopingCartChallenge/precache-manifest.f3b666c823907771a499fcc7a4c71399.js",
+    "service-worker.js": "/shopingCartChallenge/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/shopingCartChallenge/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/shopingCartChallenge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b429747.chunk.js.LICENSE.txt": "/shopingCartChallenge/static/js/2.5b429747.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1331f1b1.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.5b429747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59f0abfc.chunk.js"
+  ]
+}
